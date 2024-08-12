@@ -35,7 +35,7 @@ To enhance your Snowflake proficiency, we've included bonus tips throughout the 
                     The research involved a comprehensive analysis of common Snowflake tasks and the development of streamlined code examples. Additionally, the lab incorporated expert insights and best practices to create a valuable resource for the Snowflake community. 
                     This Snowflake Cheatsheet application utilizes various open-source projects hosted on GitHub. We express our sincere gratitude to the developers and maintainers of these projects for their contributions to the open-source community.
 
-                    This application is provided free of charge and without any commercial intent.
+                    This application is provided as a free demo, for demo purposes without any commercial intent as of July 2024.
 
                     Note: While we strive to acknowledge all third-party components, there may be inadvertent omissions. If you believe your project has been included without proper attribution, please contact us immediately. 
                     Now, go build something awesome on Snowflake! 🚀
