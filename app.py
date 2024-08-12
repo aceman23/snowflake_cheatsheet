@@ -50,15 +50,8 @@ with exp_col:
 
                     """)
 
-st.sidebar.title("❄️ SnowFlake Cheatsheet 📄")
-st.sidebar.caption("Made by an [Ungifted Amateur](https://www.linkedin.com/in/siavash-yasini/)")
-
-st.sidebar.caption("Check out the accompanying Snowflake tutorial [here](https://medium.com/snowflake/the-ungifted-amateurs-guide-to-snowflake-449284e4bd72).")
-
-with st.sidebar.expander("See My Other Streamlit Apps"):
-    st.caption("Sophisticated Palette: [App](https://sophisticated-palette.streamlit.app/) 🎈,  [Blog Post](https://blog.streamlit.io/create-a-color-palette-from-any-image/) 📝")
-    st.caption("Wordler: [App](https://wordler.streamlit.app/) 🎈,  [Blog Post](https://blog.streamlit.io/the-ultimate-wordle-cheat-sheet/) 📝")
-    st.caption("Koffee of the World: [App](https://koffee.streamlit.app/) 🎈")
+st.sidebar.title("❄️ SnowFlake CheatsheetApp")
+st.sidebar.caption("CheatSheetApp")
    
 with st.sidebar.expander("ℹ️ **Latest Snowflake Release Notes**"):
     st.markdown("""Stay frosty and keep up with the coolest updates on the Snowflake website [here](https://docs.snowflake.com/en/release-notes/new-features).""")
@@ -1773,23 +1766,23 @@ Note: This online cheatsheet for Snowflake is based on materials from the [Snowf
 
 
 st.sidebar.success("""
-This guide is limited in scope and offers just a glimpse into the expansive array of Snowflake's *cool* features—pun intended. 
-The reason for this is threefold:  
-1. Time is finite, as suggested by modern physics. 
-2. Snowflake is breaking the laws of physics by adding features faster than the speed of light, making it impossible for any mortal to catch up.
-3. I am a mortal.
+Scope Limitations
 
-But here's where you come in, my knowledgeable friend. You likely have insights, cool features, or corrections that could benefit the entire Snowflake community. 
-As an open-source project, I warmly (or should I say coolly? 🤔) welcome and eagerly look forward to your invaluable contribution. 
-Don't hesitate to jump to the GitHub repository to open an issue or start a pull request (PR) to suggest additions or modifications to the content. 
-Your expertise can help us keep this guide up-to-date and comprehensive.
+This Snowflake Cheatsheet is intended as a concise reference and does not encompass the full breadth of Snowflake's capabilities. The rapidly evolving nature of the Snowflake platform, coupled with resource constraints, necessitates a focused approach.
+
+Community Contributions
+
+To enhance the value of this cheatsheet, we encourage contributions from the Snowflake community. If you have identified omissions, inaccuracies, or opportunities for improvement, please submit an issue or pull request on the GitHub repository.
+
+Your input is invaluable in maintaining the relevance and comprehensiveness of this resource.
 """
 )
 
 with st.sidebar.expander("Acknowledgments"):
-    st.markdown("""
-    I am incredibly grateful to my amazing Snowflake mentor, [Sang Hai](https://www.linkedin.com/in/sangvhai/), who is always sharing his extensive knowledge about the exciting and innovative features of Snowflake and guiding me in implementing them in my work. 
-    I would also like to express my heartfelt appreciation to [Kathryn Reck Harris](https://www.linkedin.com/in/kathrynreck/) and [Varun Chavakula](https://www.linkedin.com/in/varunchavakula/), my awesome Snowflake buddies, who always share the exhilarating ride of exploring Snowflake and provide invaluable insights and support.
+    st.markdown(""" Comerit 2024 Research Project Disclaimer
 
-    Lastly, a special thanks to [**Jessica Smith**](https://www.linkedin.com/in/jessica-s-095a861b3/), a true champion of the Streamlit platform, for always encouraging me to create fun things in Streamlit and for her continuous support within the vibrant Streamlit community.
-    """)
+This Snowflake Cheatsheet application utilizes various open-source projects hosted on GitHub. We express our sincere gratitude to the developers and maintainers of these projects for their contributions to the open-source community.
+
+This application is provided free of charge and without any commercial intent.
+
+Note: While we strive to acknowledge all third-party components, there may be inadvertent omissions. If you believe your project has been included without proper attribution, please contact us immediately. """)
