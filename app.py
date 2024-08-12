@@ -29,16 +29,16 @@ To enhance your Snowflake proficiency, we've included bonus tips throughout the 
                 """)
         
         st.markdown("""
-                   Comerit's AI Data Analytics Lab undertook a research project during the summer of 2024 focused on developing a Snowflake Cheatsheet application. The primary goal of this initiative was to create a practical tool that would enhance data professionals' efficiency and productivity when working with the Snowflake platform. By providing readily accessible code snippets and best practices, the lab aimed to reduce the learning curve associated with Snowflake commands and optimize data management workflows.
+                    Comerit's AI Data Analytics Lab undertook a research project during the summer of 2024 focused on developing a Snowflake Cheatsheet application. The primary goal of this initiative was to create a practical tool that would enhance data professionals' efficiency and productivity when working with the Snowflake platform. 
+                    By providing readily accessible code snippets and best practices, the lab aimed to reduce the learning curve associated with Snowflake commands and optimize data management workflows.
 
-The research involved a comprehensive analysis of common Snowflake tasks and the development of streamlined code examples. Additionally, the lab incorporated expert insights and best practices to create a valuable resource for the Snowflake community.
+                    The research involved a comprehensive analysis of common Snowflake tasks and the development of streamlined code examples. Additionally, the lab incorporated expert insights and best practices to create a valuable resource for the Snowflake community. 
+                    This Snowflake Cheatsheet application utilizes various open-source projects hosted on GitHub. We express our sincere gratitude to the developers and maintainers of these projects for their contributions to the open-source community.
 
-                   This Snowflake Cheatsheet application utilizes various open-source projects hosted on GitHub. We express our sincere gratitude to the developers and maintainers of these projects for their contributions to the open-source community.
+                    This application is provided free of charge and without any commercial intent.
 
-This application is provided free of charge and without any commercial intent.
-
-Note: While we strive to acknowledge all third-party components, there may be inadvertent omissions. If you believe your project has been included without proper attribution, please contact us immediately. 
-Now, go build something awesome on Snowflake! 🚀
+                    Note: While we strive to acknowledge all third-party components, there may be inadvertent omissions. If you believe your project has been included without proper attribution, please contact us immediately. 
+                    Now, go build something awesome on Snowflake! 🚀
 
                     """)
 
