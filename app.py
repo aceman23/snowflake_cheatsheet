@@ -37,7 +37,8 @@ The research involved a comprehensive analysis of common Snowflake tasks and the
 
 This application is provided free of charge and without any commercial intent.
 
-Note: While we strive to acknowledge all third-party components, there may be inadvertent omissions. If you believe your project has been included without proper attribution, please contact us immediately. """) Now, go build something awesome on Snowflake! 🚀
+Note: While we strive to acknowledge all third-party components, there may be inadvertent omissions. If you believe your project has been included without proper attribution, please contact us immediately. 
+Now, go build something awesome on Snowflake! 🚀
 
                     """)
 
