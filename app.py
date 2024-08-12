@@ -12,7 +12,7 @@ st.set_page_config(page_title='Snowflake', layout='wide',
                 #    initial_sidebar_state=st.session_state.get('sidebar_state', 'collapsed'),
 )
 
-st.image("./logo/ungifted_amateur_v5.png", use_column_width=True )
+st.image("./logo/comeritlogo.png", use_column_width=True )
 
 st.snow()
 
@@ -20,20 +20,13 @@ _, exp_col, _ = st.columns([1,3,1])
 with exp_col:
     with st.expander("**📖 How to Use This Cheat Sheet**"):
         st.markdown("""
-                    However you like! 🤷🏻
+                   Snowflake, while a powerful data platform, often demands rapid execution and precise syntax across a diverse range of commands. This cheatsheet is designed to serve as a practical reference for Snowflake users, providing essential code snippets and best practices to streamline workflows.
 
-                    But here's my recommendation:
+Within this resource, you will find curated examples for common Snowflake tasks, such as database and schema management, table creation and manipulation, data loading, and more. By maintaining this cheatsheet as an open tab during your work sessions, you can quickly access relevant code structures and adapt them to your specific requirements.
 
-                    In a typical Snowflake work session, you might find yourself juggling various commands such as 
-                    cloning a database and schema, creating new tables or views, rummaging through files on a stage, keeping tabs on Snowpipe, wrangling data through manual copying, insertion, or updating, etc, etc ... the list is long!
+It's important to note that this cheatsheet offers a focused selection of options and arguments for each command, prioritizing efficiency and clarity. While this approach may not encompass every possible use case, it provides a solid foundation for most scenarios.
 
-                    Now, keeping the precise syntax of all these commands at your fingertips, especially for the less-frequently-used ones, can be quite a challenge. 
-                    I recommend keeping this cheat sheet open in a tab while you work. This way, you can swiftly refer to the provided code snippets and easily adapt them to your specific tasks. 
-                    To keep things streamlit 🎈... sorry, I mean streamlined, I have removed options and arguments that are not frequently used in each command. 
-                    However, keep in mind that I have cherry-picked the options based on my personal workflow experience which may not necessarily align with yours.     
-
-                    Within each segment, there's a special treat ❄️: a bonus section with top tips to elevate your Snowflake skills.  
-                    I suggest that whenever you are using a command for the first time, spend a few minutes reading the tips and hopefully pick up something new.
+To enhance your Snowflake proficiency, we've included bonus tips throughout the document. Consider reviewing these suggestions when encountering unfamiliar commands or seeking to optimize your data operations.
                     """)
         
         st.info("""
@@ -42,9 +35,9 @@ with exp_col:
                 """)
         
         st.markdown("""
-                    If you happen to spot any errors or have suggestions for improving the descriptions or tips, please don't hesitate to reach out to me directly [here](https://www.linkedin.com/in/siavash-yasini/), or open an [issue](https://github.com/syasini/snowflake_cheatsheet/issues/new) on the GitHub page. Your feedback is invaluable—and relied upon—in keeping this guide accurate and useful.
+                   Comerit's AI Data Analytics Lab undertook a research project during the summer of 2024 focused on developing a Snowflake Cheatsheet application. The primary goal of this initiative was to create a practical tool that would enhance data professionals' efficiency and productivity when working with the Snowflake platform. By providing readily accessible code snippets and best practices, the lab aimed to reduce the learning curve associated with Snowflake commands and optimize data management workflows.
 
-                    👈 Don't forget to check the sidebar for additional info and layout options!
+The research involved a comprehensive analysis of common Snowflake tasks and the development of streamlined code examples. Additionally, the lab incorporated expert insights and best practices to create a valuable resource for the Snowflake community.
 
                     Now, go build something awesome on Snowflake! 🚀
 
