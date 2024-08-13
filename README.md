@@ -1,4 +1,4 @@
-# [Comerit Snowflake CheatsheetApp]
+# [Snowflake CheatsheetApp]
 
 The ultimate ❄️ Snowflake cheat sheet app, made in 🎈 Streamlit for demo purposes only! 
 
